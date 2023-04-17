@@ -22,5 +22,3 @@
 
 ## Add Tasks(You can also delete what you want)
 ![image](https://user-images.githubusercontent.com/62482908/176313996-886b8a1e-c070-4135-bdc8-98fb6a7b019e.png)
-
-👉 Visit my linkedin: https://www.linkedin.com/in/pedrovdf/
